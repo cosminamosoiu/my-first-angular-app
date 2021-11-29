@@ -20,7 +20,7 @@ export class HeroDetailComponent implements OnInit, OnDestroy {
 
   onUpdateHero(inputEl:HTMLInputElement): void{
       const newHeroObject = {
-
+          //teeest
       }
   }
 
